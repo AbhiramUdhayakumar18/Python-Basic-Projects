@@ -36,13 +36,13 @@ A classic Rock Paper Scissors game where the player competes against the compute
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/python-projects.git
+   git clone [https://github.com/YOUR_USERNAME/python-projects.git](https://github.com/AbhiramUdhayakumar18/Python-Basic-Projects)
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd python-projects
+   cd Python-Basic-Projects
    ```
 
 3. Create a virtual environment:
